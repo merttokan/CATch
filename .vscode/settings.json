@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\okanm\\Desktop\\TED UNIVERSITY\\3.Semester Tedu\\JavaVS\\postgresql-42.2.20 (2).jar"
+        ]
+    }
+}
